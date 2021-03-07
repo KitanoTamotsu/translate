@@ -104,6 +104,8 @@ Translate Webpage by google.alfredworkflowのメモ
  そしてこれらのosascriptコマンドの結果をOpen URLに受け渡すためバックスラッシュ(`)で囲ってエコーしています
  多層ネストスクリプト！　これは世界がひろがりますね　　
 
-
+ ※Alfred4がアプリケーションへアクセスすることを許可する必要があります
+  システム環境設定→セキュリティとプライバシー→プライバシータブ→オートメーション
+  Alfred4にsafariやgoogle chromeを制御する許可を付与
 
 
