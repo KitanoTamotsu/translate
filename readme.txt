@@ -107,5 +107,10 @@ Translate Webpage by google.alfredworkflowのメモ
  ※Alfred4がアプリケーションへアクセスすることを許可する必要があります
   システム環境設定→セキュリティとプライバシー→プライバシータブ→オートメーション
   Alfred4にsafariやgoogle chromeを制御する許可を付与
+  
+
+ver1.1(2021-04-04)：
+   シェルスクリプトをbashからzshに変更
+
 
 
