@@ -1,4 +1,3 @@
-## 　　Lesson9.　ブラウザからURLを取得する 
 #### 開発メモ
 ワークフロー
 <BR><img width="600" src="https://user-images.githubusercontent.com/40127279/126857141-8dfc15db-5f1c-41a6-8c2a-5abdaa204d69.png">
